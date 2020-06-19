@@ -1,0 +1,1 @@
+{ "useCache": 0, "validateVuln_language": "ruby", "detectVuln_timeLimit": 20, "validateVuln_nPumps": 4000, "validateVuln_timeLimit": 2, "pattern": "/[\\w!#$%&'*+=?^_`{}~.\\/\\|-]+@([a-zA-Z0-9-]\\.)+[a-zA-Z]+/" }

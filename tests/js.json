@@ -1,0 +1,1 @@
+{ "useCache": 0, "validateVuln_language": "javascript", "detectVuln_timeLimit": 20, "validateVuln_nPumps": 4000, "validateVuln_timeLimit": 2, "pattern": "/[0-9](?=(?:[0-9]{3})+(?![0-9]))/g" }
